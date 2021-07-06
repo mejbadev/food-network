@@ -1,0 +1,45 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    height: 100px;
+    display: flex;
+}
+
+.logo-name{
+    display: flex;
+    width: 40%;
+    margin: 40px ;
+}
+
+.logo-name img{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+}
+.logo-name a{
+    text-decoration: none;
+    color: blue;
+}
+
+.logo-name a h2{
+    padding-top: 20px;
+}
+
+.manu{
+    width: 60%;
+    margin-top: 40px;
+}
+nav ul{
+    display: inline-block;
+    padding-top: 20px;
+}
+
+nav ul a{
+    text-decoration: none;
+    padding: 20px 40px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px; 
+}
