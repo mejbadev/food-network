@@ -40,8 +40,8 @@ nav ul{
 .link-button {
     text-decoration: none;
     padding: 20px 40px;
-    background-color: blue;
     color: white;
+    background-image: linear-gradient(blue, dodgerblue);
     border-radius: 5px; 
 }
 
